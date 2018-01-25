@@ -1,0 +1,2 @@
+# Spoondetector
+Spoondetector plugin.
